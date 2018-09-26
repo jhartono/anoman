@@ -22,5 +22,6 @@
   
   <modules>
   	<module>authorization</module>
+  	<module>resource</module>
   </modules>
 </project>
